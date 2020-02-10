@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ya ṣāḥibī</title>
+                <author>ṣirāfīn bū tarḥī al-qaṭʿānī</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ḫalīfa Muḥammad ad-Duwaybī</publisher>
+                <date>1995</date>
+                <availability>
+                    <p>As pdf scan</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>ṣirāfīn bū tarḥī al-qaṭʿānī</author>
+                    <title>ya ṣāhibī</title>
+                    <editor>Ḫalīfa Muḥammad ad-Duwaybī</editor>
+                    <edition>Qaṣāʾid al-Ǧihād</edition>
+                    <pubPlace>Ṭarābulus</pubPlace>
+                    <publisher>Markaz Ǧihād al-Lībiyyīn ad-Dirāsāt at-Tārīḫiyya</publisher>
+                    <date>1995</date>
+                    <note type="page_number">186</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>ṣirāfīn bū tarḥī al-qaṭʿānī</persName>
+                    <placeName ref="http://www.geonames.org/81302">Tobruk (Concentration Camp)</placeName>
+                </correspAction> 
+                <correspAction type="received">
+                    <persName>ʿabd al-ǧawād sulaymān aṭ-ṭāʾīʿ</persName>
+                    <placeName ref="http://www.geonames.org/2219698">al-Agila (Concentration Camp)</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="http://poems-of-internment/poems/a_001-001" />
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="context">
+                <p> المناسبة: كان الشاعر معتقل بطبرق فأرسل هذه الأبيات إلى صديقه الشاعر عبد الجواد
+                    سليمان الطائع فى معتقل العقيله يشرح فيها الحالة السيئة التى يعانى منها معتقداً
+                    أنه أسوأ حالاً منهم فى العقيلة فقال </p>
+            </div>
+        </front>
+        <body>
+            <div type="poem">
+                <head type="title"> يا صاحبى مال الزمان علينا </head>
+                <lg>
+                    <l n="1">
+                        <seg> يا صاحبى مال الزمان علينا </seg>
+                        <seg> لا ننظروا لا عاد ضيف يجينا <ref target="#p186f01">(1)</ref></seg>
+                    </l>
+                    <l n="2">
+                        <seg> يا صاحبى مال الزمان الدير </seg>
+                        <seg> والصاحب تبدل والمعاش تغير </seg>
+                    </l>
+                    <l n="3">
+                        <seg> واللى كبير فى عينة اقبيت صغير <ref target="#p186f02">(2)</ref></seg>
+                        <seg> أو لا عاد نسوى شى بموازينه </seg>
+                    </l>
+                    <l n="4">
+                        <seg> ولاعاد نطرا بالكلام الخير </seg>
+                        <seg> أو لا ننهضوا صاحب عزيز ايجينا </seg>
+                    </l>
+                    <l n="5">
+                        <seg> يا صاحب مالن علّي قرونه </seg>
+                        <seg> لا عاد نطروا لا الناس ايجونا <ref target="#p186f03">(3)</ref></seg>
+                    </l>
+                    <l n="6">
+                        <seg> أوهنّا على الصاحب عز الهونة <ref target="#p186f04">(4)</ref></seg>
+                        <seg> واللى عقاب صاحيب اشّقر فينا <ref target="#p186f05">(5)</ref></seg>
+                    </l>
+                    <l n="7">
+                        <seg> يضحك معاى وضحكته مشنونه <ref target="#p186f06">(6)</ref></seg>
+                        <seg> أو صارف النظر ما عاد نملا عينه </seg>
+                    </l>
+                </lg>
+            </div>
+            <div type="footnotes">
+                <note xml:id="p186f01" type="footnote"> يجينا: يأتى إلينا </note>
+                <note xml:id="p186f02" type="footnote"> أقبيت: أصبحت </note>
+                <note xml:id="p186f03" type="footnote"> ايجونا: يتنكر الشاعر من فعل الأيام به </note>
+                <note xml:id="p186f04" type="footnote"> أوهنّا: تخلى عنه الرفاق </note>
+                <note xml:id="p186f05" type="footnote"> اشّقر: يهزأ به </note>
+                <note xml:id="p186f06" type="footnote"> مشنونه: ليست صافية </note>            
+            </div>
+        </body>
+    </text>
+</TEI>
