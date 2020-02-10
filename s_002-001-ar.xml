@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>ya ṣāḥibī</title>
-                <author>ṣirāfīn bū tarḥī al-qaṭʿānī</author>
+                <author>ṣarāfīn bū tarḥī al-qaṭʿānī</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>Ḫalīfa Muḥammad ad-Duwaybī</publisher>
@@ -14,7 +14,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>ṣirāfīn bū tarḥī al-qaṭʿānī</author>
+                    <author>ṣarāfīn bū tarḥī al-qaṭʿānī</author>
                     <title>ya ṣāhibī</title>
                     <editor>Ḫalīfa Muḥammad ad-Duwaybī</editor>
                     <edition>Qaṣāʾid al-Ǧihād</edition>
@@ -28,7 +28,7 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>ṣirāfīn bū tarḥī al-qaṭʿānī</persName>
+                    <persName>ṣarāfīn bū tarḥī al-qaṭʿānī</persName>
                     <placeName ref="http://www.geonames.org/81302">Tobruk (Concentration Camp)</placeName>
                 </correspAction> 
                 <correspAction type="received">
