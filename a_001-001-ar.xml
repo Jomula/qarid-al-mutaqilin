@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>yā ṣarāfīn</title>
+                <author>ʿAbd al-Ǧawād Slīmān aṭ-Ṭāʾīʿ</author>
+                <respStmt>
+                  <persName>Jonas Müller-Laackman</persName>
+                  <resp>copied from published edition</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Ḫalīfa Muḥammad ad-Duwaybī</publisher>
+                <date>1995</date>
+                <availability>
+                    <p>As pdf scan</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                   <author>ʿAbd al-Ǧawād Slīmān aṭ-Ṭāʾīʿ</author>
+                   <title>yā ṣarāfīn</title>
+                   <editor>Ḫalīfa Muḥammad ad-Duwaybī</editor>
+                   <edition>Qaṣāʾid al-Ǧihād</edition>
+                   <pubPlace>Ṭarābulus</pubPlace>
+                   <publisher>Markaz Ǧihād al-Lībiyyīn ad-Dirāsāt at-Tārīḫiyya</publisher>
+                   <date>1995</date>
+                    <note type="page_number">196-197</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+      <profileDesc>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName>ʿAbd al-Ǧawād Slīmān aṭ-Ṭāʾīʿ</persName>
+            <placeName ref="http://www.geonames.org/2219698">al-Agila (Concentration Camp)</placeName>
+          </correspAction>
+          <correspAction type="received">
+            <persName>Ṣarāfīn Bū Tarḥī al-Qaṭʿānī</persName>
+            <placeName ref="http://www.geonames.org/81302">Tobruk (Concentration Camp)</placeName>
+          </correspAction> 
+          <correspContext>
+            <ref type="prev" target="http://poems-of-internment/poems/s_002-001" />
+          </correspContext>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text>
+        <front>
+          <div type="context">
+            <p>
+          المناسبة: كان صرافين بو ترحى القطعانى معتقلاً بطبرق فأرسل إلى عبد الجواد سليمان
+          الطايع بأبيات سبق ذكرها فرد عليه عبد الجواد من معتقل العقيله بهذه القصيدة:
+            </p>
+          </div>
+        </front>
+        <body>
+            <div type="poem">
+                <lg>
+                    <l n="1">
+                      <seg> يا صرافين جوابك أتانا </seg>
+                      <seg> ومن مطراك فى رده انتوه <ref target="#p196f01">(1)</ref></seg>
+                    </l>
+                    <l n="2">
+                      <seg> بكينا غير ينفع ابكانا </seg>
+                      <seg> طلبت سراح شورك ما عطوه <ref target="#p196f02">(2)</ref></seg>
+                    </l>
+                    <l n="3">
+                      <seg> أو حق الله أو من صور بنانا </seg>
+                      <seg> لو كانت قوم عياطك انجوه </seg>
+                    </l>
+                    <l n="4">
+                      <seg> غير الدهر كى ما جاك جانا </seg>
+                      <seg> بدل ناس كانوا ما لوجوه  </seg>
+                    </l>
+                    <l n="5">
+                      <seg> عاد الزين فى وسط العفانة </seg>
+                      <seg> فعل الخير الماضى ما طروه </seg>
+                    </l>
+                    <l n="6">
+                      <seg> زمانا شين مبنى على الخيانة </seg>
+                      <seg> قليل الخير فينا قلدوه <ref target="#p196f03">(3)</ref></seg>
+                    </l>
+                    <l n="7">
+                      <seg> عاد ابسوط عايل فى إنسانا <ref target="#p196f04">(4)</ref></seg>
+                      <seg> وللى عالعيب ينهى يطرحوه <ref target="#p196f05">(5)</ref></seg>
+                    </l>
+                    <l n="8">
+                      <seg> واللى كان مو حاجه امعانا </seg>
+                      <seg> عاد اليوم فضله نرتجوه </seg>
+                    </l>
+                    <l n="9">
+                      <seg> تارى الحى كى يرقد زمانا <ref target="#p196f06">(6)</ref></seg>
+                      <seg> يبقى عفن فعله ينكروه </seg>
+                    </l>
+                    <pb n="197" />
+                    <l n="10">
+                      <seg> واللى فيك كانوا هل عفانه </seg>
+                      <seg> أقلال الخير سوّك يأخذوه <ref target="#p197f07">(7)</ref></seg>
+                    </l>
+                    <l n="11">
+                      <seg> الله كريم يقطع رجانا </seg>
+                      <seg> يزول الكرب والمربا انجوه <ref target="#p197f08">(8)</ref></seg>
+                    </l>
+                    <l n="12">
+                      <seg> وايلم الشمل وابيوتك معانا </seg>
+                      <seg> رب البيت فضله نرتجوه </seg>
+                    </l>
+                    <l n="13">
+                      <seg> ويندم كل من دار العفانة </seg>
+                      <seg> عدوك راه بالشينه طروه </seg>
+                    </l>
+                    <l n="14">
+                      <seg> يا صرافين حوالك طنانا <ref target="#p197f09">(9)</ref></seg>
+                      <seg> ايهم العقل وقتن نجبدوه </seg>
+                    </l>
+                    <l n="15">
+                      <seg> لكن فيه عزونا ضنانا </seg>
+                      <seg> واسماعيل والطايع أو خوه <ref target="#p197f10">(10)</ref><ref target="#p197f11">(11)</ref></seg>
+                    </l>
+                    <l n="16">
+                      <seg> راعى الكوت لرزق بوعنانا <ref target="#p197f12">(12)</ref></seg>
+                      <seg> أيام العز كانوا يذكروه </seg>
+                    </l>
+                    <l n="17">
+                      <seg> لو كانت غير ميتتم امعانا </seg>
+                      <seg> نعده كيف من قبله أو بوه </seg>
+                    </l>
+                    <l n="18">
+                      <seg> لكن شى من ربى بلانا </seg>
+                      <seg> أو كل نهار لابده ابخوه </seg>
+                    </l>
+                    <l n="19">
+                      <seg> طالب فضل من فيده شفانا </seg>
+                      <seg> اختام الخير عنا نختموه </seg>
+                    </l>
+                    <l n="20">
+                      <seg> أو ما لفردوس ما يقطع رجانا </seg>
+                      <seg> وانعمد حوض الكوثر نوردوه </seg>
+                    </l>
+                    <l n="21">
+                      <seg> صلى يا من قاعد امعانا </seg>
+                      <seg> عالمشهور وانشاء الله انجوه </seg>
+                    </l>
+                    <l n="22">
+                      <seg> شفيع الناس يومن فيه يانا </seg>
+                      <seg> يومن فيه تغيير الوجوه </seg>
+                    </l>
+                </lg>
+            </div>
+            <div type="footnotes">
+              <note xml:id="p196f01" type="footnote"> مطراك: أخيارك </note>
+              <note xml:id="p196f02" type="footnote"> سراح: أذن </note>
+              <note xml:id="p196f03" type="footnote"> قلدوه: أسروه أو جعلوه رئيساً </note>
+              <note xml:id="p196f04" type="footnote"> عايل: يضرب </note>
+              <note xml:id="p196f05" type="footnote"> يطرحوه: يطرح أرضًا للجلد </note>
+              <note xml:id="p196f06" type="footnote"> يرقد: ينام </note>
+              <note xml:id="p197f07" type="footnote"> سوّك: المرض </note>
+              <note xml:id="p197f08" type="footnote"> المربا: مكان الشأة </note>
+              <note xml:id="p197f09" type="footnote"> طنانا: ذبلنا وتعبنا </note>
+              <note xml:id="p197f10" type="footnote"> اسماعيل: إسماعيل الطايع </note>
+              <note xml:id="p197f11" type="footnote"> الطايع جد الشاعر </note>
+              <note xml:id="p197f12" type="footnote"> الكوت: الجواد </note>
+            </div>
+        </body>
+    </text>
+</TEI>
