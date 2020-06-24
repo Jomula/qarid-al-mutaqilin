@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title>ya ṣāḥibī</title>
-                <author>ṣarāfīn bū tarḥī al-qaṭʿānī</author>
+                <author>Ṣarāfīn Bū Tarḥī al-Qaṭʿānī</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>Ḫalīfa Muḥammad ad-Duwaybī</publisher>
@@ -14,7 +14,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author>ṣarāfīn bū tarḥī al-qaṭʿānī</author>
+                    <author>Ṣarāfīn Bū Tarḥī al-Qaṭʿānī</author>
                     <title>ya ṣāhibī</title>
                     <editor>Ḫalīfa Muḥammad ad-Duwaybī</editor>
                     <edition>Qaṣāʾid al-Ǧihād</edition>
@@ -28,11 +28,11 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName>ṣarāfīn bū tarḥī al-qaṭʿānī</persName>
+                    <persName>Ṣarāfīn Bū Tarḥī al-Qaṭʿānī</persName>
                     <placeName ref="http://www.geonames.org/81302">Tobruk (Concentration Camp)</placeName>
                 </correspAction> 
                 <correspAction type="received">
-                    <persName>ʿabd al-ǧawād sulaymān aṭ-ṭāʾīʿ</persName>
+                    <persName>ʿAbd al-Ǧawād Slīmān aṭ-Ṭāʾīʿ</persName>
                     <placeName ref="http://www.geonames.org/2219698">al-Agila (Concentration Camp)</placeName>
                 </correspAction>
                 <correspContext>
